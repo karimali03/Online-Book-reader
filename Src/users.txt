@@ -1,0 +1,3 @@
+karim,0000,karim ali,karim@gmail.com,0
+ahmed,12,ahmed elsayed,ahmed@gmail.com,1
+zyad,0009,zyad hossam,zyad@gmail.com,0
